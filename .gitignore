@@ -120,3 +120,6 @@ typings/
 
 # dotenv environment variables file
 .env
+
+# Mac DS_Store
+.DS_Store
